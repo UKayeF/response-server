@@ -4,7 +4,8 @@
   "description": "a very basic rest server",
   "main": "index.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.mjs"
   },
   "author": "Nils E.",
   "license": "ISC",
